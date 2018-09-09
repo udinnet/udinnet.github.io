@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Uditha's Notes - misc</title><link href="http://uditha.net/" rel="alternate"></link><link href="http://uditha.net/feeds/misc.atom.xml" rel="self"></link><id>http://uditha.net/</id><updated>2018-09-09T00:00:00+08:00</updated><entry><title>Sample Article</title><link href="http://uditha.net/sample-article.html" rel="alternate"></link><published>2018-09-09T00:00:00+08:00</published><updated>2018-09-09T00:00:00+08:00</updated><author><name>Uditha Bandara Wijerathna</name></author><id>tag:uditha.net,2018-09-09:/sample-article.html</id><summary type="html">&lt;p&gt;This is some article, in english&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;This is some article, in english&lt;/p&gt;
+</content><category term="foo"></category><category term="bar"></category><category term="baz"></category></entry></feed>
